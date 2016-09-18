@@ -1,0 +1,8 @@
+###
+# kubernetes proxy config
+
+# default config should be adequate
+
+# Add your own!
+#KUBE_PROXY_ARGS="--master=https://atomic0:6443 --kubeconfig=/etc/kubernetes/proxy.kubeconfig"
+KUBE_PROXY_ARGS=""
